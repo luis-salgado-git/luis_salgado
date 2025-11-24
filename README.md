@@ -6,4 +6,4 @@ Soy un estudiante de programación apasionado por el desarrollo de software y lo
 * [**SubWist**]([link-al-repo](https://github.com/luis-salgado-git/2D_IndieSnowForest)):Proyecto indie en desarrollo
 
 ### 🎓 Grado Superior DAM
-* [**Proyecto de Login con JAVAFX**]([link-al-repo](https://github.com/luis-salgado-git/Proyecto_Espacial_-Interafaces-)): Prácticas de SQL.
+* [**Proyecto de Login con JAVAFX**]([link-al-repo](https://github.com/luis-salgado-git/Proyecto_Espacial_-Interafaces-)):
